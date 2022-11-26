@@ -1,0 +1,23 @@
+.slider{
+    margin: 50px 1em;
+    width: 50%;
+    /* margin: ; */
+}
+.img-box img{
+   width:  50px;
+}
+.btn{
+    border: none;
+    outline: none;
+    background:rgb(186, 199, 161);
+    cursor: pointer;
+    margin: 10px ;
+}
+.slider-img{
+    width: 50%;  
+    border:solid 2.5px ;
+}
+.btn{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
